@@ -1,6 +1,10 @@
 # 测试区
 src/
+*.exe
 
 # 配置文件
 .vscode/
 .lcpr_data/
+
+# ...
+doc/
