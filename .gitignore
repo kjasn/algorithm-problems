@@ -1,9 +1,11 @@
 # 测试区
 src/
 *.exe
+out/
 
 # 配置文件
 .vscode/
+.idea/
 .lcpr_data/
 
 # ...
