@@ -10,3 +10,6 @@ out/
 
 # ...
 doc/
+
+# 忽略 leetcode model
+**/model.*
